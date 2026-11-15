@@ -1,0 +1,7 @@
+# Việc cần làm – mỗi dòng 1 việc, tối đa 8 dòng hiện lên Kindle.
+# "14:00 ..." = có giờ · "! ..." = gấp (ô đặc) · "x ..." = đã xong (gạch ngang) · dòng bắt đầu bằng # bị bỏ qua
+# LƯU Ý: kho GitHub là công khai → đừng ghi thông tin nhạy cảm (tiền, mật khẩu, tên khách...).
+! Việc gấp mẫu
+10:00 Việc có giờ mẫu
+Việc thường mẫu
+x Việc đã xong mẫu

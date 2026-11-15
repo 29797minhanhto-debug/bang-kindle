@@ -1,0 +1,683 @@
+{
+ "_ghi_chu": "Kho câu châm ngôn: ds = [câu, nguồn]. dac_biet: ngày dương \"d/m\", âm \"am:d/m\" (mùng 1 tháng Giêng = am:1/1), \"am:1\" mọi mùng 1, \"am:15\" mọi rằm. Thêm/bớt câu thoải mái.",
+ "dac_biet": {
+  "20/11": [
+   "Không thầy đố mày làm nên.",
+   "Tục ngữ"
+  ],
+  "1/5": [
+   "Lao động là vinh quang.",
+   "Khẩu hiệu Việt Nam"
+  ],
+  "2/9": [
+   "Không có gì quý hơn độc lập, tự do.",
+   "Hồ Chí Minh"
+  ],
+  "1/1": [
+   "Hành trình nghìn dặm bắt đầu từ một bước chân.",
+   "Lão Tử"
+  ],
+  "am:1/1": [
+   "Một năm khởi đầu từ mùa xuân, một đời khởi đầu từ tuổi trẻ.",
+   "Hồ Chí Minh"
+  ],
+  "am:1": [
+   "Uống nước nhớ nguồn.",
+   "Tục ngữ"
+  ],
+  "am:15": [
+   "Ăn quả nhớ kẻ trồng cây.",
+   "Tục ngữ"
+  ],
+  "8/3": [
+   "Phụ nữ là một nửa thế giới.",
+   "Ngạn ngữ"
+  ]
+ },
+ "ds": [
+  [
+   "Chữ tín quý hơn vàng.",
+   "Tục ngữ"
+  ],
+  [
+   "Uống nước nhớ nguồn.",
+   "Tục ngữ"
+  ],
+  [
+   "Cây ngay không sợ chết đứng.",
+   "Tục ngữ"
+  ],
+  [
+   "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.",
+   "Ca dao"
+  ],
+  [
+   "Tiên trách kỷ, hậu trách nhân.",
+   "Thành ngữ"
+  ],
+  [
+   "Danh tiếng xây hai mươi năm, mất chỉ năm phút.",
+   "Warren Buffett"
+  ],
+  [
+   "Nói lời phải giữ lấy lời, đừng như con bướm đậu rồi lại bay.",
+   "Ca dao"
+  ],
+  [
+   "Chỉ có một ông chủ duy nhất: khách hàng.",
+   "Sam Walton"
+  ],
+  [
+   "Lá lành đùm lá rách.",
+   "Tục ngữ"
+  ],
+  [
+   "Đừng tìm lỗi, hãy tìm cách khắc phục.",
+   "Henry Ford"
+  ],
+  [
+   "Một lần bất tín, vạn lần bất tin.",
+   "Tục ngữ"
+  ],
+  [
+   "Hứa ít, làm nhiều.",
+   "Nguyên tắc kinh doanh"
+  ],
+  [
+   "Ăn quả nhớ kẻ trồng cây.",
+   "Tục ngữ"
+  ],
+  [
+   "Có chí thì nên.",
+   "Tục ngữ"
+  ],
+  [
+   "Anh em như thể tay chân.",
+   "Ca dao"
+  ],
+  [
+   "Tốt gỗ hơn tốt nước sơn.",
+   "Tục ngữ"
+  ],
+  [
+   "Kỷ luật là cầu nối giữa mục tiêu và thành tựu.",
+   "Jim Rohn"
+  ],
+  [
+   "Lòng biết ơn là ký ức của trái tim.",
+   "Jean-Baptiste Massieu"
+  ],
+  [
+   "Khách hàng không hài lòng nhất là nguồn học lớn nhất của bạn.",
+   "Bill Gates"
+  ],
+  [
+   "Muốn đi nhanh hãy đi một mình, muốn đi xa hãy đi cùng nhau.",
+   "Ngạn ngữ châu Phi"
+  ],
+  [
+   "Thật thà là cha quỷ quái.",
+   "Tục ngữ"
+  ],
+  [
+   "Có công mài sắt, có ngày nên kim.",
+   "Tục ngữ"
+  ],
+  [
+   "Một miếng khi đói bằng một gói khi no.",
+   "Tục ngữ"
+  ],
+  [
+   "Không có việc gì khó, chỉ sợ lòng không bền; đào núi và lấp biển, quyết chí ắt làm nên.",
+   "Hồ Chí Minh"
+  ],
+  [
+   "Không ai trong chúng ta thông minh bằng tất cả chúng ta.",
+   "Ken Blanchard"
+  ],
+  [
+   "Giá là thứ bạn trả. Giá trị là thứ bạn nhận được.",
+   "Warren Buffett"
+  ],
+  [
+   "Quân tử nhất ngôn.",
+   "Thành ngữ"
+  ],
+  [
+   "Biết ơn những gì mình có, rồi mình sẽ có nhiều hơn.",
+   "Oprah Winfrey"
+  ],
+  [
+   "Thất bại là mẹ thành công.",
+   "Tục ngữ"
+  ],
+  [
+   "Bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn.",
+   "Ca dao"
+  ],
+  [
+   "Nếu bạn nói thật, bạn chẳng cần phải nhớ gì cả.",
+   "Mark Twain"
+  ],
+  [
+   "Làm đến nơi, chơi đến chốn.",
+   "Thành ngữ"
+  ],
+  [
+   "Uống nước nhớ kẻ đào giếng.",
+   "Tục ngữ"
+  ],
+  [
+   "Muốn ăn thì lăn vào bếp.",
+   "Tục ngữ"
+  ],
+  [
+   "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.",
+   "Hồ Chí Minh"
+  ],
+  [
+   "Chất lượng là làm đúng ngay cả khi không ai nhìn.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Lời hứa đã nói ra là món nợ chưa trả.",
+   "Robert W. Service"
+  ],
+  [
+   "Lòng biết ơn biến những gì ta có thành đủ.",
+   "Melody Beattie"
+  ],
+  [
+   "Người thành công tìm cách, người thất bại tìm lý do.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Chia ngọt sẻ bùi.",
+   "Thành ngữ"
+  ],
+  [
+   "Giấy rách phải giữ lấy lề.",
+   "Tục ngữ"
+  ],
+  [
+   "Nước chảy đá mòn.",
+   "Tục ngữ"
+  ],
+  [
+   "Khách hàng hài lòng là quảng cáo tốt nhất.",
+   "Ngạn ngữ marketing"
+  ],
+  [
+   "Tôi không thất bại. Tôi chỉ tìm ra mười nghìn cách không hiệu quả.",
+   "Thomas Edison"
+  ],
+  [
+   "Một con ngựa đau, cả tàu bỏ cỏ.",
+   "Tục ngữ"
+  ],
+  [
+   "Mua danh ba vạn, bán danh ba đồng.",
+   "Tục ngữ"
+  ],
+  [
+   "Kiến tha lâu cũng đầy tổ.",
+   "Tục ngữ"
+  ],
+  [
+   "Ăn cây nào rào cây ấy.",
+   "Tục ngữ"
+  ],
+  [
+   "Đi một ngày đàng, học một sàng khôn.",
+   "Tục ngữ"
+  ],
+  [
+   "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau.",
+   "Ca dao"
+  ],
+  [
+   "Trung thực là chương đầu tiên trong cuốn sách của sự khôn ngoan.",
+   "Thomas Jefferson"
+  ],
+  [
+   "Chúng ta là những gì ta làm lặp đi lặp lại. Xuất sắc không phải một hành động, mà là thói quen.",
+   "Will Durant"
+  ],
+  [
+   "Không thầy đố mày làm nên.",
+   "Tục ngữ"
+  ],
+  [
+   "Hành trình nghìn dặm bắt đầu từ một bước chân.",
+   "Lão Tử"
+  ],
+  [
+   "Hãy đối xử với nhân viên như cách bạn muốn họ đối xử với khách hàng tốt nhất của bạn.",
+   "Stephen Covey"
+  ],
+  [
+   "Mất lòng trước, được lòng sau.",
+   "Tục ngữ"
+  ],
+  [
+   "Nếu không làm được việc lớn, hãy làm việc nhỏ một cách thật lớn.",
+   "Napoleon Hill"
+  ],
+  [
+   "Mọi người không quan tâm bạn biết bao nhiêu, cho tới khi họ biết bạn quan tâm họ bao nhiêu.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Đường đi khó không khó vì ngăn sông cách núi, mà khó vì lòng người ngại núi e sông.",
+   "Nguyễn Bá Học"
+  ],
+  [
+   "Một điều nhịn, chín điều lành.",
+   "Tục ngữ"
+  ],
+  [
+   "Vàng thật không sợ lửa.",
+   "Tục ngữ"
+  ],
+  [
+   "Việc hôm nay chớ để ngày mai.",
+   "Tục ngữ"
+  ],
+  [
+   "Lời chào cao hơn mâm cỗ.",
+   "Tục ngữ"
+  ],
+  [
+   "Mỗi ngày tốt hơn hôm qua một chút.",
+   "Triết lý Kaizen"
+  ],
+  [
+   "Tài năng thắng trận đấu, tinh thần đồng đội thắng chức vô địch.",
+   "Michael Jordan"
+  ],
+  [
+   "Hữu xạ tự nhiên hương.",
+   "Thành ngữ"
+  ],
+  [
+   "Đo bảy lần, cắt một lần.",
+   "Ngạn ngữ Nga"
+  ],
+  [
+   "Bạn càng giúp nhiều người có được điều họ muốn, bạn càng có được điều mình muốn.",
+   "Zig Ziglar"
+  ],
+  [
+   "Người lãnh đạo giỏi nhận phần lỗi nhiều hơn một chút, nhận phần công ít hơn một chút.",
+   "Arnold Glasow"
+  ],
+  [
+   "Thương người như thể thương thân.",
+   "Ca dao"
+  ],
+  [
+   "Thuốc đắng dã tật, sự thật mất lòng.",
+   "Tục ngữ"
+  ],
+  [
+   "Thành công là tổng những nỗ lực nhỏ, lặp lại ngày qua ngày.",
+   "Robert Collier"
+  ],
+  [
+   "Tôn sư trọng đạo.",
+   "Thành ngữ"
+  ],
+  [
+   "Dù bạn nghĩ mình làm được hay không làm được, bạn đều đúng.",
+   "Henry Ford"
+  ],
+  [
+   "Một mình chúng ta làm được ít, cùng nhau chúng ta làm được nhiều.",
+   "Helen Keller"
+  ],
+  [
+   "Được người tin cậy còn quý hơn được người yêu mến.",
+   "George MacDonald"
+  ],
+  [
+   "Cẩn tắc vô áy náy.",
+   "Thành ngữ"
+  ],
+  [
+   "Nếu lời cảm ơn là lời nguyện duy nhất bạn nói trong đời, thế cũng đủ.",
+   "Meister Eckhart"
+  ],
+  [
+   "Bí quyết để tiến lên là bắt đầu.",
+   "Mark Twain"
+  ],
+  [
+   "Chị ngã em nâng.",
+   "Thành ngữ"
+  ],
+  [
+   "Chất lượng được nhớ rất lâu sau khi giá cả đã bị quên.",
+   "Aldo Gucci"
+  ],
+  [
+   "Sai một li, đi một dặm.",
+   "Thành ngữ"
+  ],
+  [
+   "Biết đủ thì không nhục.",
+   "Lão Tử"
+  ],
+  [
+   "Thua keo này, bày keo khác.",
+   "Tục ngữ"
+  ],
+  [
+   "Dịch vụ khách hàng không phải một phòng ban, mà là cả công ty.",
+   "Tony Hsieh"
+  ],
+  [
+   "Ăn ngay nói thẳng.",
+   "Thành ngữ"
+  ],
+  [
+   "Ai ơi đã quyết thì hành, đã đan thì lận tròn vành mới thôi.",
+   "Ca dao"
+  ],
+  [
+   "Lửa thử vàng, gian nan thử sức.",
+   "Tục ngữ"
+  ],
+  [
+   "Gần mực thì đen, gần đèn thì sáng.",
+   "Tục ngữ"
+  ],
+  [
+   "Tính cách như cái cây, danh tiếng như cái bóng của nó.",
+   "Abraham Lincoln"
+  ],
+  [
+   "Năng nhặt chặt bị.",
+   "Tục ngữ"
+  ],
+  [
+   "Muốn sang thì bắc cầu kiều, muốn con hay chữ thì yêu lấy thầy.",
+   "Ca dao"
+  ],
+  [
+   "Hãy làm những gì bạn có thể, với những gì bạn có, ở nơi bạn đang đứng.",
+   "Theodore Roosevelt"
+  ],
+  [
+   "Đồng cam cộng khổ.",
+   "Thành ngữ"
+  ],
+  [
+   "Trăm nghe không bằng một thấy.",
+   "Tục ngữ"
+  ],
+  [
+   "Tích tiểu thành đại.",
+   "Thành ngữ"
+  ],
+  [
+   "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra.",
+   "Ca dao"
+  ],
+  [
+   "Ngọc không mài không sáng, người không học không biết đạo.",
+   "Tam Tự Kinh"
+  ],
+  [
+   "Văn hóa doanh nghiệp quan trọng hơn mọi chiến lược.",
+   "Ngạn ngữ quản trị"
+  ],
+  [
+   "Đói cho sạch, rách cho thơm.",
+   "Tục ngữ"
+  ],
+  [
+   "Nói hay không bằng làm hay.",
+   "Tục ngữ"
+  ],
+  [
+   "Khách hàng là thượng đế.",
+   "Ngạn ngữ kinh doanh"
+  ],
+  [
+   "Mưu việc khó từ lúc nó còn dễ.",
+   "Lão Tử"
+  ],
+  [
+   "Nhường cơm sẻ áo.",
+   "Thành ngữ"
+  ],
+  [
+   "Tiền nào của nấy.",
+   "Tục ngữ"
+  ],
+  [
+   "Ăn kỹ no lâu, cày sâu tốt lúa.",
+   "Tục ngữ"
+  ],
+  [
+   "Ơn ai một chút chớ quên, phiền ai một chút để bên cạnh lòng.",
+   "Ca dao"
+  ],
+  [
+   "Cần cù bù thông minh.",
+   "Tục ngữ"
+  ],
+  [
+   "Kính trên nhường dưới.",
+   "Thành ngữ"
+  ],
+  [
+   "Thời gian là vàng bạc.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Bán anh em xa, mua láng giềng gần.",
+   "Tục ngữ"
+  ],
+  [
+   "Học, học nữa, học mãi.",
+   "V. I. Lênin"
+  ],
+  [
+   "Thuận mua vừa bán.",
+   "Thành ngữ"
+  ],
+  [
+   "Chỉ có một cơ hội để tạo ấn tượng đầu tiên.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Có làm thì mới có ăn, không dưng ai dễ mang phần đến cho.",
+   "Ca dao"
+  ],
+  [
+   "Học thầy không tày học bạn.",
+   "Tục ngữ"
+  ],
+  [
+   "Biết thì thưa thốt, không biết thì dựa cột mà nghe.",
+   "Ca dao"
+  ],
+  [
+   "Ăn chắc mặc bền.",
+   "Thành ngữ"
+  ],
+  [
+   "Một chữ cũng là thầy, nửa chữ cũng là thầy.",
+   "Thành ngữ"
+  ],
+  [
+   "Chớ thấy sóng cả mà ngã tay chèo.",
+   "Ca dao"
+  ],
+  [
+   "Chim khôn kêu tiếng rảnh rang, người khôn nói tiếng dịu dàng dễ nghe.",
+   "Ca dao"
+  ],
+  [
+   "Uốn lưỡi bảy lần trước khi nói.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Tiền trao cháo múc.",
+   "Thành ngữ"
+  ],
+  [
+   "Ăn trông nồi, ngồi trông hướng.",
+   "Tục ngữ"
+  ],
+  [
+   "Siêng làm thì có, siêng học thì hay.",
+   "Tục ngữ"
+  ],
+  [
+   "Người thanh tiếng nói cũng thanh, chuông kêu khẽ đánh bên thành cũng kêu.",
+   "Ca dao"
+  ],
+  [
+   "Mưa dầm thấm lâu.",
+   "Tục ngữ"
+  ],
+  [
+   "Uống nước nhớ người đào giếng, ăn khoai nhớ kẻ cho dây mà trồng.",
+   "Ca dao"
+  ],
+  [
+   "Nhất nghệ tinh, nhất thân vinh.",
+   "Tục ngữ"
+  ],
+  [
+   "Thuận vợ thuận chồng, tát biển Đông cũng cạn.",
+   "Ca dao"
+  ],
+  [
+   "Của rẻ là của ôi.",
+   "Tục ngữ"
+  ],
+  [
+   "Thắng không kiêu, bại không nản.",
+   "Thành ngữ"
+  ],
+  [
+   "Cùng nhau đến là khởi đầu, cùng nhau giữ là tiến bộ, cùng nhau làm là thành công.",
+   "Ngạn ngữ"
+  ],
+  [
+   "Nói phải, củ cải cũng nghe.",
+   "Tục ngữ"
+  ],
+  [
+   "Chậm mà chắc.",
+   "Thành ngữ"
+  ],
+  [
+   "Khéo ăn thì no, khéo co thì ấm.",
+   "Tục ngữ"
+  ],
+  [
+   "Khen trước mọi người, góp ý riêng một người.",
+   "Nguyên tắc lãnh đạo"
+  ],
+  [
+   "Đắt xắt ra miếng.",
+   "Tục ngữ"
+  ],
+  [
+   "Đừng đếm ngày, hãy làm cho mỗi ngày đáng giá.",
+   "Muhammad Ali"
+  ],
+  [
+   "Muốn biết phải hỏi, muốn giỏi phải học.",
+   "Tục ngữ"
+  ],
+  [
+   "Buôn có bạn, bán có phường.",
+   "Tục ngữ"
+  ],
+  [
+   "Tiền bạc phân minh, ái tình sòng phẳng.",
+   "Thành ngữ"
+  ],
+  [
+   "Ai làm người ấy chịu.",
+   "Tục ngữ"
+  ],
+  [
+   "Ăn bát cơm dẻo, nhớ nẻo đường đi.",
+   "Ca dao"
+  ],
+  [
+   "Không ai có thể quay lại để bắt đầu lại, nhưng ai cũng có thể bắt đầu từ hôm nay để có một kết thúc mới.",
+   "Maria Robinson"
+  ],
+  [
+   "Nhiễu điều phủ lấy giá gương, người trong một nước phải thương nhau cùng.",
+   "Ca dao"
+  ],
+  [
+   "Một nghề cho chín còn hơn chín nghề.",
+   "Tục ngữ"
+  ],
+  [
+   "Buôn tận gốc, bán tận ngọn.",
+   "Tục ngữ"
+  ],
+  [
+   "Một người vì mọi người, mọi người vì một người.",
+   "Khẩu hiệu"
+  ],
+  [
+   "Học ăn, học nói, học gói, học mở.",
+   "Tục ngữ"
+  ],
+  [
+   "Có bột mới gột nên hồ.",
+   "Tục ngữ"
+  ],
+  [
+   "Ăn có nhai, nói có nghĩ.",
+   "Tục ngữ"
+  ],
+  [
+   "Đã làm thì làm cho trót.",
+   "Thành ngữ"
+  ],
+  [
+   "Trăm hay không bằng tay quen.",
+   "Tục ngữ"
+  ],
+  [
+   "Chung lưng đấu cật.",
+   "Thành ngữ"
+  ],
+  [
+   "Nói gần nói xa chẳng qua nói thật.",
+   "Tục ngữ"
+  ],
+  [
+   "Tích cốc phòng cơ.",
+   "Thành ngữ"
+  ],
+  [
+   "Phi thương bất phú.",
+   "Thành ngữ"
+  ],
+  [
+   "Lời nói đọi máu.",
+   "Thành ngữ"
+  ],
+  [
+   "Thành công thường đến với người bận rộn tới mức không có thời gian đi tìm nó.",
+   "Henry David Thoreau"
+  ],
+  [
+   "Góp gió thành bão.",
+   "Thành ngữ"
+  ]
+ ]
+}
