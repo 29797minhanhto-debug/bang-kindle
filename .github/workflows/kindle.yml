@@ -1,0 +1,35 @@
+name: Ve bang Kindle
+on:
+  schedule:            # ảnh sẵn trước các mốc Kindle thức (07:30, 12:00, 17:00 giờ VN = 00:30, 05:00, 10:00 UTC)
+    - cron: '0 0 * * *'
+    - cron: '30 4 * * *'
+    - cron: '30 9 * * *'
+  push:
+    branches: [main]   # sửa viec.txt xong là vẽ lại ngay
+  workflow_dispatch:   # nút "Run workflow" bấm tay
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  ve:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Cai font va ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-inter fonts-noto-core
+      - name: Ve anh
+        run: |
+          MA=$(node -e "console.log(JSON.parse(require('fs').readFileSync('cau-hinh.json','utf8')).ma)")
+          XUAT=public/$MA/kindle.png OUT_DIR=$RUNNER_TEMP/bk node may-ve.mjs --mot-lan
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: public }
+      - uses: actions/deploy-pages@v4
+      
